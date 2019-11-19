@@ -6,3 +6,4 @@ class TestMyCode(unittest.TestCase):
         self.assertEqual(mycode.add(5, -8), -3)
         self.assertEqual(mycode.add(5, 3), 8)
         self.assertEqual(mycode.add(-5, -3), -8)
+        self.assertEqual(mycode.add(2, 2), 2)
