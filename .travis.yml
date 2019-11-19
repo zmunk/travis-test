@@ -8,6 +8,6 @@ script: pytest
 notifications:
   email:
     recipients:
-      - ahmetbulut@sehir.edu.tr
+      - ibrahimtigrek@std.sehir.edu.tr
     on_success: never # default: change
     on_failure: always # default: always
